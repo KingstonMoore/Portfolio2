@@ -1,0 +1,28 @@
+h1 {
+    color: #a52a2a;
+}
+
+/* * {
+    border: solid;
+}*/
+
+.info{
+    background-color:#fa8072;
+    display: flex;
+    justify-content: space-between;
+}
+
+.games{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.social{
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2, p{
+    text-align: center;
+}
